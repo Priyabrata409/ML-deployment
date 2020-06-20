@@ -1,1 +1,1 @@
-web: gunicorn model:model
+web: gunicorn Flask:Flask
